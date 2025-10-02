@@ -1,4 +1,6 @@
-import { forwardRef, AnchorHTMLAttributes, ButtonHTMLAttributes } from "react";
+import { forwardRef } from "react";
+import type { AnchorHTMLAttributes, ButtonHTMLAttributes } from "react";
+import type React from "react";
 
 type BaseProps = {
   as?: "button" | "a";
