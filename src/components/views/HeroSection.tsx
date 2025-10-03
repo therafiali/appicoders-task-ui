@@ -5,8 +5,8 @@ const HeroSection = () => {
   return (
     <section className="relative overflow-hidden bg-[#1E232D] text-white">
       {/* Red layered shapes (right side) */}
-      <div className="pointer-events-none absolute hero-layer-1 z-0" />
-      <div className="pointer-events-none absolute hero-layer-2 z-0" />
+      <div className="pointer-events-none absolute hero-layer-1 z-0 mt-8" />
+      <div className="pointer-events-none absolute hero-layer-2 z-0 mt-8" />
 
       <div className="mx-auto flex max-w-[1500px]  gap-10  py-16 lg:py-24 ">
         <div className=" relative z-[1]">

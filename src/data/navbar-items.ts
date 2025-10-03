@@ -4,8 +4,6 @@ const HeaderItems = [
   "Services",
   "Why Choose Us",
   "Portfolio",
-  "Products",
-  "Testimonial",
   "Technologies",
   "Contact",
 ];
